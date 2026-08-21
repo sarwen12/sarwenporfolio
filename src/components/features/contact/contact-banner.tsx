@@ -75,7 +75,7 @@ export function ContactPageBannerSection() {
                     </p>
 
                     <p className="mt-1 text-white font-medium">
-                      your@email.com
+                      sarwenmaranga12@email.com
                     </p>
                   </div>
 
